@@ -1,4 +1,4 @@
-Feature: US18 - Sección testimoniales del landing page
+Feature: US20 - Sección testimoniales del landing page
 Como usuario, 
 quiero ver testimoniales de clientes 
 para tener mayor confianza en la plataforma
