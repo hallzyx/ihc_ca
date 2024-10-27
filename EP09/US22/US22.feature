@@ -12,3 +12,4 @@ Scenario: E2: Escenario 06: Consistencia visual entre dispositivos
     Dado que el usuario cambia entre dispositivos (de móvil a tablet o escritorio)
     Cuando vuelve a acceder a la página en el nuevo dispositivo
     Entonces la página mantiene la misma experiencia visual y accesibilidad, con el contenido ordenado y legible sin necesidad de hacer zoom
+    
