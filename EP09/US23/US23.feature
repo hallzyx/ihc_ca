@@ -1,4 +1,4 @@
-Feature: US25 - Información de Bancos Afiliados
+Feature: US23 - Información de Bancos Afiliados
 Como usuario interesado en la seguridad financiera
 Quiero obtener más información sobre los bancos afiliados a FraudGuard
 Para conocer las entidades con las que la plataforma trabaja y cómo estas alianzas mejoran la seguridad de mis cuentas

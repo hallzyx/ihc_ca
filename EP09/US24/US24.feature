@@ -1,4 +1,4 @@
-Feature: US26 - Información en la página Sobre Nosotros
+Feature: US24 - Información en la página Sobre Nosotros
 Como usuario interesado en conocer más sobre FraudGuard
 Quiero acceder a la sección "Sobre Nosotros" desde el menú
 Para entender mejor el propósito, historia y valores de la plataforma
